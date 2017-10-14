@@ -110,4 +110,4 @@ describe("About Functions", function() {
     + "      //An internal comment\n"
     + "      return a * b;\n"
     + "    }");
-});
+  });
